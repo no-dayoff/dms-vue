@@ -1,6 +1,8 @@
 # dms-vue
 
-> A Vue.js project
+> device manage system 实验设备管理系统
+前端：Vue+ElementUI+Axios
+后端: Koa2+Mongodb+Mongoose
 
 ## Build Setup
 
